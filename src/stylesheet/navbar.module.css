@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.navbar img {
+    width: 130px;
+    height: 76px;
+}
+
+.navbar input {
+    width: 300px;
+    border-radius: 2px;
+    border: 1px solid white;
+    background-color: transparent;
+
+}
